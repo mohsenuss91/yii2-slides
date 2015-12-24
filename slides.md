@@ -10,16 +10,22 @@ theme: theme
 
 --
 
-# Yii/YII2 FRAMWORK
+# Yii/Yii2 FRAMWORK
+> Yii is a high performance, component-based PHP framework for rapidly
+> developing modern Web applications. The name Yii (pronounced Yee or [ji
+> :] ) means “simple and evolutionary” in Chinese. It can also be thought of
+> as an acronym for <b>Yes It Is!</b>
 
 --
 
-#Framework pour les COMMUNISTES :D
+## Framework pour les COMMUNISTES :D
+### Il est bien pour:
+Son architecture orientée composant lui permet d'être le choix pour toute applications web de grande échelle
+* Portail
+* CMS (Content manegement systems)
+* Projets e-commerce
+* Web Service Restful
 
-Yii is a high performance, component-based PHP framework for rapidly
-developing modern Web applications. The name Yii (pronounced Yee or [ji
-:] ) means “simple and evolutionary” in Chinese. It can also be thought of
-as an acronym for <b>Yes It Is!</b>
 
 --
 
