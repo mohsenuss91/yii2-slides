@@ -14,32 +14,14 @@ theme: theme
 
 --
 
-##![Knockoutjs](img/knockoutjs.png)
-Knockout is a JavaScript library that helps you to create rich, responsive display and editor user interfaces with a clean underlying data model. Any time you have sections of UI that update dynamically (e.g., changing depending on the user’s actions or when an external data source changes), KO can help you implement it more simply and maintainably.
-* Trés légére
-* Facile à intégrer dans une application existante
-* Observables
-* Computed observables
-* Declarative binding
-* HTML templating
-* Support de differents navigateurs même IE6
+#Framework pour les COMMUNISTES :D
+
+Yii is a high performance, component-based PHP framework for rapidly
+developing modern Web applications. The name Yii (pronounced Yee or [ji
+:] ) means “simple and evolutionary” in Chinese. It can also be thought of
+as an acronym for <b>Yes It Is!</b>
 
 --
-## CujoJS
-
-CujoJS is an architectural toolkit for building highly modular, maintainable web applications that are easy to test and refactor, with zero framework lock-in.
-
-Boite à outil plûtot qu'un framework monolithique qui contient:
-* colajs: two-way binding
-* cramjs: AMD et commonJS bundler
-* curljs: Module loader qui peut charger AMD, CommonJS 1.1, CSS, HTML/text et même les anciens scripts
-* jiffjs: JSON Patch, implémentation de RFC6902
-* meldjs: AOP pour JS avec before, around, on, afterReturning, afterThrowing, after advice, and pointcuts.
-* msgjs: Message oriented programming
-* polyjs: ES5 Polyfill
-* restjs: Un client RESTful pour JS
-* whenjs: Une implémentation solid de Promises et de when() plus autres fonctionalités pour Async JS
-* wirejs: Un léger JS IOC container
 
 --
 ##![Aria Templates](img/logo-page.png)
