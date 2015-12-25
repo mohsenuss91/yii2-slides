@@ -1,9 +1,9 @@
-title: YII2 Framework
-author:
+##title: YII2 Framework
+##author:
   name: Cherif BOUCHELAGHEM
-  twitter: cherif_b
-  github: cherifGsoul
-  url: http://cherifbouchelaghem.com
+  twitter: [@cherif_b](https://twitter.com/cherif_b)
+  github: [cherifGsoul](https://github.com/cherifGsoul)
+  url: [cherifbouchelaghem.com](http://cherifbouchelaghem.com)
 output: index.html
 controls: false
 theme: theme
